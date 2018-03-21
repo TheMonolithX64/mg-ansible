@@ -1,6 +1,6 @@
 ---
 - hosts: all
-  remote_user: steveb
+  remote_user: steve
   tasks:
 
   - name: Add EPEL repository
